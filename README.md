@@ -1,2 +1,1 @@
-# Space-Wizardry
-Minecraft 1.12.2 Modpack for Space, Tech, and Magic
+# Space-Wizardry 2 v2.1.0 Server
