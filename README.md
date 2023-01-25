@@ -1,4 +1,4 @@
-# Space-Wizardry 2 v2.1.0 Client
+# Space-Wizardry 2 v2.2.0 Client
 - Download [MultiMC](https://multimc.org/#Download)
 - In MultiMC, click `Add Instance`.
 - Select `Import from zip`.
